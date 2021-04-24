@@ -1,5 +1,19 @@
 # Changelog
 
+### [0.1.9](https://www.github.com/googleapis/java-workflow-executions/compare/v0.1.8...v0.1.9) (2021-04-24)
+
+
+### Bug Fixes
+
+* release scripts from issuing overlapping phases ([#95](https://www.github.com/googleapis/java-workflow-executions/issues/95)) ([f013e7a](https://www.github.com/googleapis/java-workflow-executions/commit/f013e7a29415493d046273e6ec68e89843a1b2d1))
+* typo ([#92](https://www.github.com/googleapis/java-workflow-executions/issues/92)) ([079eb7f](https://www.github.com/googleapis/java-workflow-executions/commit/079eb7f3be4097c710f0185331bd9df89cb7e4d8))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.21.1 ([#96](https://www.github.com/googleapis/java-workflow-executions/issues/96)) ([1bc3bef](https://www.github.com/googleapis/java-workflow-executions/commit/1bc3bef95d72d8a8aee33f51fcce97c86eacd66d))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v1 ([#99](https://www.github.com/googleapis/java-workflow-executions/issues/99)) ([774e2ca](https://www.github.com/googleapis/java-workflow-executions/commit/774e2cab1f4af73c55ffa85a2b91f3273a44e81c))
+
 ### [0.1.8](https://www.github.com/googleapis/java-workflow-executions/compare/v0.1.7...v0.1.8) (2021-04-09)
 
 
